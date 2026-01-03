@@ -34,6 +34,12 @@ This version establishes the foundational principles governing:
 
 ---
 
+## [1.0.1] — 2026-01-02
+### Status
+Patch release
+### Summary
+Typographical corrections and formatting adjustments.
+
 ### Versioning policy (reminder)
 
 - Patch versions (1.0.x): Clarifications or non-substantive edits  

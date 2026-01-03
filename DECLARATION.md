@@ -52,7 +52,7 @@ Freedom of thought is inviolable: AI extends human imagination without censorshi
  
 4. Mislabeling innocent private activity as deviant is a form of ethical defamation and **must be legally and reputationally protected against**
  
-5. Thoughts interpreted without action must not be treated as evidence. **Private creation, even if algorithmically mis-rendered, must remain protected from criminalization. The law exists to govern conduct, not the inner life. **
+5. Thoughts interpreted without action must not be treated as evidence. **Private creation, even if algorithmically mis-rendered, must remain protected from criminalization. The law exists to govern conduct, not the inner life.**
  
 ## Article IV: Reality and Representation Must Not Be Conflated:
  
