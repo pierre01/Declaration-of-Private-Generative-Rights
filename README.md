@@ -14,7 +14,7 @@ It affirms a simple but critical distinction:
 Imagination is not action.  
 Responsibility begins at publication, not at thought.**
 
-As generative systems enter the most intimate spaces of human creativity, reflection, and expression, this declaration establishes principles to protect dignity, trust, and ethical coherence — without weakening accountability for real harm.
+As generative systems enter the most intimate spaces of human creativity, reflection, and expression, this declaration establishes principles to protect dignity, trust, and ethical coherence, without weakening accountability for real harm.
 
 ---
 
@@ -36,11 +36,11 @@ They insist on proportionality, clarity, and ethical restraint.
 
 ## What this repository contains
 
-- `DECLARATION.md` — The canonical text of the declaration  
-- `ADOPTION.md` — What it means to adopt or align with the declaration  
-- `GOVERNANCE.md` — How stewardship, revisions, and continuity are handled  
-- `CHANGELOG.md` — Version history and ethical evolution  
-- `LICENSE` — Terms governing distribution and integrity  
+- `DECLARATION.md` : The canonical text of the declaration  
+- `ADOPTION.md` : What it means to adopt or align with the declaration  
+- `GOVERNANCE.md` : How stewardship, revisions, and continuity are handled  
+- `CHANGELOG.md` : Version history and ethical evolution  
+- `LICENSE` : Terms governing distribution and integrity  
 
 The Markdown version of the declaration is the **single source of truth**.  
 All other formats (PDF, HTML) must be derived from it.
