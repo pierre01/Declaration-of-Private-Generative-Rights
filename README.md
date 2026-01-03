@@ -90,8 +90,8 @@ No revision may silently alter its meaning or invalidate prior adoptions.
 
 ## Status
 
-Current version: **v1.0.0**  
-Date of initial ratification: **January 1, 2026**
+Current version: **v1.0.1**  
+Date of initial ratification: **January 2, 2026**
 
 ---
 
