@@ -9,6 +9,11 @@ No version may be altered retroactively.
 No change may be undocumented.
 
 ---
+## [1.0.1] — 2026-01-02
+### Status
+Patch release
+### Summary
+Typographical corrections and formatting adjustments.
 
 ## [1.0.0] — 2026-01-01
 
@@ -34,11 +39,7 @@ This version establishes the foundational principles governing:
 
 ---
 
-## [1.0.1] — 2026-01-02
-### Status
-Patch release
-### Summary
-Typographical corrections and formatting adjustments.
+
 
 ### Versioning policy (reminder)
 

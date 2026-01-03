@@ -1,4 +1,4 @@
-# Declaration of Private Generative Rights
+# Declaration of Private AI Generative Rights
 
 A charter for freedom of thought, private creation, and ethical generative systems.
 
@@ -6,7 +6,7 @@ A charter for freedom of thought, private creation, and ethical generative syste
 
 ## What this is
 
-The **Declaration of Private Generative Rights** defines ethical boundaries for generative AI in domains where law has not yet caught up.
+The Declaration of Private Generative Rights **defines ethical boundaries for generative AI** in domains where law has not yet caught up.
 
 It affirms a simple but critical distinction:
 
