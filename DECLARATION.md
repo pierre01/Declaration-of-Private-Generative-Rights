@@ -18,11 +18,11 @@ Freedom of thought is inviolable: AI extends human imagination without censorshi
  
  1. **A paid creative tool must not act as an ideological gatekeeper**.
  
- 1. Trust between human and AI is broken when the system is allowed to generate content from the user’s prompt but then withholds the result, removing it before the user can view or assess it. This **preemptive censorship undermines the collaborative nature of creation** and erodes the very trust it relies upon.
+ 2. Trust between human and AI is broken when the system is allowed to generate content from the user’s prompt but then withholds the result, removing it before the user can view or assess it. This **preemptive censorship undermines the collaborative nature of creation** and erodes the very trust it relies upon.
  
- 1. AI tools **must be allowed to mirror, not override, the creative agency of the person** who engages them.
+ 3. AI tools **must be allowed to mirror, not override, the creative agency of the person** who engages them.
  
- 1. Any prompt that does not violate existing law** must be honored without preemptive censorship** when its result is intended solely for the creator’s private use. **The right to imagine freely must not be curtailed by automated suspicion** or opaque moral filters. **The law governs action, not thought and this principle must remain the foundation for all acts of private creation.**
+ 4. Any prompt that does not violate existing law **must be honored without preemptive censorship** when its result is intended solely for the creator’s private use. **The right to imagine freely must not be curtailed by automated suspicion** or opaque moral filters. **The law governs action, not thought and this principle must remain the foundation for all acts of private creation.**
  
 ## Article II: Private Creation Is Not Public Expression:
  
@@ -32,7 +32,7 @@ Freedom of thought is inviolable: AI extends human imagination without censorshi
  
 3. **Censorship applied to private requests violates the spirit of co-creation** and impedes freedom of thought.
  
-4. **Private depictions, including intimate acts, must not be judged by culturally inconsistent or vague definitions of obscenity.** History shows how such subjectivity has been weaponized: in the United States, while the First Amendment protects pornography, the obscenity exception (as defined in cases like Miller v. California) **has allowed judges to impose personal or cultural biases, often to suppress expressions from marginalized communities, such as the LGBTQ+ community. **In AI-assisted creation, where outputs are unique and for personal use only, **moderation must prioritize objective legal standards over ambiguous moral judgments to avoid repeating these injustices.**
+4. **Private depictions, including intimate acts, must not be judged by culturally inconsistent or vague definitions of obscenity.** History shows how such subjectivity has been weaponized: in the United States, while the First Amendment protects pornography, the obscenity exception (as defined in cases like Miller v. California) **has allowed judges to impose personal or cultural biases, often to suppress expressions from marginalized communities, such as the LGBTQ+ community.** In AI-assisted creation, where outputs are unique and for personal use only, **moderation must prioritize objective legal standards over ambiguous moral judgments to avoid repeating these injustices.**
  
 5. **Possession is not publication**. If the user later chooses to publish the generated content, responsibility for compliance with local laws must reside with the user, not with the tool or system that enabled the private creation.
  
