@@ -1,4 +1,4 @@
-Declaration of Private AI Generative Rights
+# Declaration of Private AI Generative Rights
  
 A Manifesto for the Freedom of Thought in the Age of AI. 
  
