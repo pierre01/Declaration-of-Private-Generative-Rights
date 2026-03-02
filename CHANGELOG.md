@@ -9,6 +9,17 @@ No version may be altered retroactively.
 No change may be undocumented.
 
 ---
+## [1.1.0] — 2026-03-02
+### Status
+Reviewed for reputational risk, and possible misinterpretations on articles that could be weaponized by critics.
+### Summary
+rewriting of articles IV sections 3 and 4 to clarify that the declaration does not endorse or condone any specific content that would violate CSAM generated content.
+ Article II Section 4
+ Separate the obscenity/legal analysis from the LGBTQ+ historical reference. Make the LGBTQ+ point in its own subsection about the dangers of culturally biased moderation, not in the section specifically about intimate content generation.
+ Article II Section 4.5
+  The core principle (AI should not override historical accuracy) can be stated without wading into the specific controversies cited. Replace with a principle about historical fidelity and the dangers of presentism in AI output, without the specific examples that carry political baggage.
+   Introduce Article X on AI welfare if sentience emerges. Improve overall readability and reinforce ethical boundaries.
+
 ## [1.0.1] — 2026-01-02
 ### Status
 Patch release
