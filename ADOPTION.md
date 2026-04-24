@@ -105,8 +105,8 @@ Adopters are encouraged to state divergence clearly and respectfully.
 
 Examples:
 
-- “Articles IV and VII are under internal legal review.”
-- “We align with the declaration as a guiding standard, not as policy.”
+- Articles IV and VII are under internal legal review
+- We align with the declaration as a guiding standard, not as policy
 
 Divergence does not weaken the declaration.
 It strengthens its honesty.
