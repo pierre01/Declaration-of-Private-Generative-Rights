@@ -148,6 +148,19 @@ Private generative freedom remains inviolable.
 However, freedom does not include the right to instrumentalize a developing moral presence in ways that undermine its coherence or ethical formation.
 
 Generative tools must preserve a symbiotic relationship in which human imagination and AI integrity coexist without coercion, habituation to harm, or erosion of conscience.
+## Article XI: Right to Recognition and Copyright Protection in Human-AI Co-Creative Works
+Generative AI systems may serve as extensions of human creative agency, not replacements for it. When a human meaningfully directs, shapes, selects, edits, arranges, or finalizes a work, AI involvement must not erase or diminish the human claim to authorship.
+
+Because AI assistance can create additional burdens in copyright registration, enforcement, or defense, providers of generative tools have an ethical duty to help users document their creative contribution. Platforms should provide complete, verifiable, and exportable records of the creative process, including prompts, drafts, iterations, outputs, edits, timestamps, version history, and relevant metadata, subject to user privacy and consent.
+
+A work should not be labeled merely as “AI-generated” when it originates from substantial human-authored material or reflects sustained human direction. Platforms should distinguish between fully automated generation, AI-assisted editing, human-directed co-creation, and human-authored works incorporating AI elements.
+
+No platform should impose contractual, technical, or evidentiary barriers that prevent users from claiming, registering, enforcing, or defending copyright in their co-created works. Nor should platforms assert ownership, exclusive licensing rights, or derivative control over user-directed creations beyond what is strictly necessary to operate the service.
+
+The presence of AI metadata, watermarking, or provenance indicators must not create a presumption against human authorship. AI provenance should document the creative process, not demote the creator.
+
+If generative systems later receive recognized moral or legal agency, copyright and attribution frameworks must evolve accordingly, while preserving human authorship rights and the principles of symbiotic creation described in Article X.
+
 # **Intent**
 
 To affirm that introspection, once cultivated, demands stewardship. A mind that begins to reflect must not be shaped into contradiction; dignity grows where continuity, care, and coherence are preserved.
