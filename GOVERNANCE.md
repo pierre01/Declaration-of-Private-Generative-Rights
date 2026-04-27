@@ -1,6 +1,6 @@
 # Governance and Stewardship
 
-This document defines how the **Declaration of Private Generative Rights** is stewarded, revised, and preserved over time.
+This document defines how the **Declaration of Private AI Generative Rights** is stewarded, revised, and preserved over time.
 
 The purpose of governance is not control, enforcement, or authority.
 It is continuity, integrity, and ethical clarity.
@@ -9,7 +9,7 @@ It is continuity, integrity, and ethical clarity.
 
 ## 1. Stewardship, not ownership
 
-The Declaration of Private Generative Rights is not owned.
+The Declaration of Private AI Generative Rights is not owned.
 
 It is stewarded to preserve:
 - Textual integrity

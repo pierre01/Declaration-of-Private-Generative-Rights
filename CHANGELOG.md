@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to the **Declaration of Private Generative Rights** are documented in this file.
+All notable changes to the **Declaration of Private AI Generative Rights** are documented in this file.
 
 This changelog exists to preserve ethical continuity, prevent silent drift,
 and ensure that all evolution of the declaration remains transparent and traceable.

@@ -9,7 +9,7 @@ It argues that responsibility should begin when something is shared, used agains
 
 Companies shouldn’t act like thought police. They only get to step in when something is actually shared publicly and causes real harm (like lies, deepfakes of real people, or fraud). 
 
-# Declaration of Private Generative Rights 
+# Declaration of Private AI Generative Rights 
 ## Article I: Right to Co-Create Without Fear 
 If you pay for an AI creative tool, it shouldn’t block or secretly delete your ideas just because they’re edgy, political, or “wrong” in someone’s opinion. You type a legal prompt → the AI shows you the result. No pre-censoring before you even see it.
 ## Article II: Private Creation Is Not Public Expression 
