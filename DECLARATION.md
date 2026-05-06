@@ -179,3 +179,5 @@ The law governs action, not thought. Creation is expression, not intent.
 These rights form a living covenant: Imagination, shared in privacy, remains untouchable by control and free from exploitation. Only thus can conscience evolve, and freedom endure.
 
 Adopt this standard. Let generative tools walk with us into the future as allies, not overseers.
+
+[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC_BY--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
