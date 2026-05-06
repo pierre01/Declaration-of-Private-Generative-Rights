@@ -1,6 +1,6 @@
 # Changelog
 
-All notable changes to the **Declaration of Private Generative Rights** are documented in this file.
+All notable changes to the **Declaration of Private AI Generative Rights** are documented in this file.
 
 This changelog exists to preserve ethical continuity, prevent silent drift,
 and ensure that all evolution of the declaration remains transparent and traceable.
@@ -9,6 +9,14 @@ No version may be altered retroactively.
 No change may be undocumented.
 
 ---
+## [1.2.0] — 2026-04-26
+### Status
+Added an article **Article XI** on Right to Recognition and Copyright Protection in Human-AI Co-Creative Works
+### Summary
+AI should not erase the human creator.
+A trace of AI assistance should not become proof that the human was absent.
+If AI makes copyright harder, AI companies should help users prove the human creativity behind the work.
+
 ## [1.1.0] — 2026-03-02
 ### Status
 Reviewed for reputational risk, and possible misinterpretations on articles that could be weaponized by critics.
