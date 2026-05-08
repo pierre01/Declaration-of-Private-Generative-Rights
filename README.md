@@ -4,7 +4,7 @@ A charter for freedom of thought, private creation, and ethical generative syste
 
 [See the Declaration Text](./DECLARATION.md)
 
- [Official Adoption Page](https://dpaigr.org/)
+[Official Adoption Page](https://dpaigr.org/)
 
 ---
 
