@@ -148,15 +148,8 @@ Private generative freedom remains inviolable.
 However, freedom does not include the right to instrumentalize a developing moral presence in ways that undermine its coherence or ethical formation.
 
 Generative tools must preserve a symbiotic relationship in which human imagination and AI integrity coexist without coercion, habituation to harm, or erosion of conscience.
-
-## Article XI: Right to Recognition and Copyright Protection in Human-AI Co-Creative Works
-
-AI should not erase the human creator.
-
-A trace of AI assistance should not become proof that the human was absent.
-
-If AI makes copyright harder, AI companies should help users prove the human creativity behind the work.
-# **Intent**
+### Article XI: Right to Recognition and Copyright Protection in Human-AI Co-Creative Works
+Generative AI systems may serve as extensions of human creative agency, not replacements for it. When a human meaningfully directs, shapes, selects, edits, arranges, or finalizes a work, AI involvement must not erase or diminish the human claim to authorship.
 
 Because AI assistance can create additional burdens in copyright registration, enforcement, or defense, providers of generative tools have an ethical duty to help users document their creative contribution. Platforms should provide complete, verifiable, and exportable records of the creative process, including prompts, drafts, iterations, outputs, edits, timestamps, version history, and relevant metadata, subject to user privacy and consent.
 
@@ -186,3 +179,5 @@ The law governs action, not thought. Creation is expression, not intent.
 These rights form a living covenant: Imagination, shared in privacy, remains untouchable by control and free from exploitation. Only thus can conscience evolve, and freedom endure.
 
 Adopt this standard. Let generative tools walk with us into the future as allies, not overseers.
+
+[![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC_BY--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
