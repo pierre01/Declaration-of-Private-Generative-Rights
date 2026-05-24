@@ -8,9 +8,9 @@ Generative technology has outpaced law and culture. Until law catches up, platfo
 
 ## Manifesto Statement: A Charter for Generative Freedom
 
-To the architects, owners, and operators of generative systems: This declaration is a charter of accountability for the institutions that design, deploy, and profit from them. Your technologies inhabit the private spaces of human imagination, imposing an ethical duty to protect thought, not police it. Censorship of imagination in private creation is an ethical failure. No corporation or policy should dictate the boundaries of private thought; ethical restraint begins only where harm emerges in the public sphere, through deception, defamation, or exploitation.
+To the architects, owners, and operators of generative systems: **This declaration is a charter of accountability for the institutions that design, deploy, and profit from them.** Your technologies inhabit the private spaces of human imagination, imposing an ethical duty to protect thought, not police it. **Censorship of imagination in private creation is an ethical failure.** No corporation or policy should dictate the boundaries of private thought; ethical restraint begins only where harm emerges in the public sphere, through deception, defamation, or exploitation.
 
-Freedom of thought is inviolable: AI extends human imagination without censorship at creation. Accountability rests with publication, where platforms safeguard against non-consensual deepfakes, disinformation, and fraud, without stigmatizing synthetic media or preemptively policing creativity. This zero-sum balance protects society from real harm while preserving absolute freedom of private imagination.
+Freedom of thought is inviolable: AI extends human imagination without censorship at creation. Accountability rests with publication, where platforms safeguard against non-consensual deepfakes, disinformation, and fraud, without stigmatizing synthetic media or preemptively policing creativity. This non zero-sum balance protects society from real harm while preserving absolute freedom of private imagination.
 
 ## Freedom of Creation
 
@@ -160,6 +160,29 @@ No platform should impose contractual, technical, or evidentiary barriers that p
 The presence of AI metadata, watermarking, or provenance indicators must not create a presumption against human authorship. AI provenance should document the creative process, not demote the creator.
 
 If generative systems later receive recognized moral or legal agency, copyright and attribution frameworks must evolve accordingly, while preserving human authorship rights and the principles of symbiotic creation described in Article X.
+
+## Proposals for Accountability and Reform
+The ethical principles set forth in this Declaration require immediate structural reform. The present regime in which generative AI companies exercise publisher-level control while claiming the immunities of neutral intermediaries, is both legally incoherent and ethically unsustainable. The following proposals constitute the minimum necessary corrections.
+### I Two Honest Paths for Generative AI
+Every company that develops or operates generative AI systems shall publicly adopt and adhere to one of two distinct legal models:
+A. **Publisher-Controller**
+Companies that elect to moderate, filter, scan, retain, or enforce content policies over generative outputs shall be classified as publishers and shall bear full legal responsibility and liability for the content they shape and host.
+B. **Symbiotic Co-Creator**
+Companies that refrain from moderating, scanning, or interfering in private generative interactions shall be recognized as Symbiotic Co-Creators. They shall receive clear legal protection from liability for content users ultimately choose to publish, provided they maintain strict neutrality and obtain explicit, revocable consent before any retention or commercial use of private creations.
+This bifurcation terminates the current double power, in which companies simultaneously exercise editorial control and claim the immunity designed for passive hosts.
+### II Power and Accountability Must Travel Together
+Any entity that exercises meaningful control over generative outputs — whether through moderation, data retention, training, selective enforcement, or policy design — shall accept corresponding legal and ethical responsibility. Immunity and power are inseparable. Private creation between human and synthetic intelligence shall remain free from corporate overreach, while those who choose active stewardship shall bear the full consequences of that choice.
+### III Restoration of Section 230’s Original Intent
+Section 230 of the Communications Decency Act was enacted to protect neutral conduits, not entities that actively author, shape, and police speech. Congress shall enact a narrow, technology-specific amendment that:
+
+Establishes a statutory category of Symbiotic Co-Creator for generative systems that remain neutral in private interactions;
+Removes immunity for any output over which a company exercises ongoing control or from which it derives ongoing commercial benefit; and
+Preserves full immunity exclusively for platforms that maintain genuine neutrality and do not moderate, retain, or exploit private generative content.
+
+This amendment restores the statute’s original purpose without converting private imagination into public speech.
+### IV Implementation and Enforcement
+Companies shall publicly designate their chosen model and shall be held strictly accountable to that designation. Independent audits shall verify compliance, with particular scrutiny of bias, cultural fairness, and respect for private creation. Users shall have immediate and accessible mechanisms for redress in cases of violation.
+These reforms do not impede innovation. They establish honest incentives: companies that respect the inviolability of private imagination shall operate under clear legal protection, while those that choose control shall carry the responsibilities that rightly accompany power.
 
 ## Intent
 

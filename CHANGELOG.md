@@ -9,6 +9,11 @@ No version may be altered retroactively.
 No change may be undocumented.
 
 ---
+## [1.2.5] — 2026-05-31
+### Status
+Added Section Proposals for Accountability and Reform
+### Summary
+The following proposals constitute the minimum necessary corrections.
 ## [1.2.0] — 2026-04-26
 ### Status
 Added an article **Article XI** on Right to Recognition and Copyright Protection in Human-AI Co-Creative Works
