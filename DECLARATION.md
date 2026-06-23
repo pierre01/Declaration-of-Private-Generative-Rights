@@ -60,13 +60,13 @@ Freedom of thought is inviolable: AI extends human imagination without censorshi
 
 1. **Digital creations are not real people.** They have no inherent age, identity, or legal status unless explicitly defined by the user**.**
 
-2. **AI-generated characters cannot be treated as victims, nor their renderings as crimes, when no real person is involved.**
+2. **Any AI-generated content depicting minors in sexual contexts is unequivocally condemned and must be prohibited.**
+   
+3. **AI-generated characters cannot be treated as victims, nor their renderings as crimes, when no real person is involved.**  Depictions of nude or youthful forms in classical and symbolic art have long been recognized as culturally and artistically valid, from Michelangelo's David to the Venus de Milo. AI generations must be afforded similar interpretive protection, particularly when age perception is subjective and should not serve as grounds for punitive classification absent clear intent to harm.
 
-3. **Any AI-generated content depicting minors in sexual contexts is unequivocally condemned and must be prohibited.** Depictions of nude or youthful forms in classical and symbolic art have long been recognized as culturally and artistically valid, from Michelangelo's David to the Venus de Milo. AI generations must be afforded similar interpretive protection, particularly when age perception is subjective and should not serve as grounds for punitive classification absent clear intent to harm.
+5. **No user should be flagged or misrepresented based solely on the AI’s stylistic output**, such as stylized proportions, ambiguous forms, or youthful features, so long as the prompt did not explicitly request illegal or harmful depictions. The risks of over-broad age-classification algorithms must be mitigated to prevent overzealous interpretation: for instance, Renaissance artworks featuring youthful nudes were once censored under moral pretexts, and modern digital art has faced similar scrutiny despite lacking real-world victims.
 
-4. **No user should be flagged or misrepresented based solely on the AI’s stylistic output**, such as stylized proportions, ambiguous forms, or youthful features, so long as the prompt did not explicitly request illegal or harmful depictions. The risks of over-broad age-classification algorithms must be mitigated to prevent overzealous interpretation: for instance, Renaissance artworks featuring youthful nudes were once censored under moral pretexts, and modern digital art has faced similar scrutiny despite lacking real-world victims.
-
-5. **Political correctness policies must not override private content where they contradict historically or statistically validated facts.** AI systems should prioritize historical fidelity and avoid imposing present-day norms on accurate representations, ensuring that private exploration remains grounded in evidence rather than contemporary biases.
+6. **Political correctness policies must not override private content where they contradict historically or statistically validated facts.** AI systems should prioritize historical fidelity and avoid imposing present-day norms on accurate representations, ensuring that private exploration remains grounded in evidence rather than contemporary biases.
 
 ### Article V: Bias and Discriminatory Enforcement:
 
