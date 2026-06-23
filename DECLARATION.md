@@ -62,7 +62,7 @@ Freedom of thought is inviolable: AI extends human imagination without censorshi
 
 2. **Any AI-generated content depicting minors in sexual contexts is unequivocally condemned and must be prohibited.**
    
-3. **AI-generated characters cannot be treated as victims, nor their renderings as crimes, when no real person is involved.**  Depictions of nude or youthful forms in classical and symbolic art have long been recognized as culturally and artistically valid, from Michelangelo's David to the Venus de Milo. AI generations must be afforded similar interpretive protection.
+3. **AI-generated characters cannot be treated as victims, nor their renderings as crimes, when no real person is involved.**  Depictions of nude forms in classical and symbolic art have long been recognized as culturally and artistically valid, from Michelangelo's David to the Venus de Milo. AI generations must be afforded similar interpretive protection.
 
 5. **No user should be flagged or misrepresented based solely on the AI’s stylistic output**, such as stylized proportions, ambiguous forms, or youthful features, so long as the prompt did not explicitly request illegal or harmful depictions. The risks of over-broad classification algorithms must be mitigated to prevent overzealous interpretation: for instance, Renaissance artworks featuring youthful nudes were once censored under moral pretexts, and modern digital art has faced similar scrutiny despite lacking real-world victims.
 
