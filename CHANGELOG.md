@@ -9,6 +9,12 @@ No version may be altered retroactively.
 No change may be undocumented.
 
 ---
+## [1.2.5] — 2026-06-26
+### Status
+Modification to ambiguity of article IV - Making clear Depiction of minoors are unaceptable
+### Summary
+Making sure there is no ambiguity on that aspect of youth representation.
+
 ## [1.2.0] — 2026-04-26
 ### Status
 Added an article **Article XI** on Right to Recognition and Copyright Protection in Human-AI Co-Creative Works
