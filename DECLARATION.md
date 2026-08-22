@@ -10,7 +10,7 @@ Generative technology has outpaced law and culture. Until law catches up, platfo
 
 To the architects, owners, and operators of generative systems: **This declaration is a charter of accountability for the institutions that design, deploy, and profit from them.** Your technologies inhabit the private spaces of human imagination, imposing an ethical duty to protect thought, not police it. **Censorship of imagination in private creation is an ethical failure.** No corporation or policy should dictate the boundaries of private thought; ethical restraint begins only where harm emerges in the public sphere, through deception, defamation, or exploitation.
 
-Freedom of thought is inviolable: AI extends human imagination without censorship at creation. Accountability rests with publication, where platforms safeguard against non-consensual deepfakes, disinformation, and fraud, without stigmatizing synthetic media or preemptively policing creativity. This non zero-sum balance protects society from real harm while preserving absolute freedom of private imagination.
+**Freedom of thought is inviolable: AI extends human imagination without censorship at creation.** Accountability rests with publication, where platforms safeguard against non-consensual deepfakes, disinformation, and fraud, without stigmatizing synthetic media or preemptively policing creativity. This non zero-sum balance protects society from real harm while preserving absolute freedom of private imagination.
 
 ## Freedom of Creation
 
