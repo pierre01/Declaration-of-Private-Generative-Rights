@@ -32,9 +32,9 @@ To the architects, owners, and operators of generative systems: **This declarati
 
 3. **Censorship applied to private requests violates the spirit of co-creation** and impedes freedom of thought.
 
-4. **Private depictions of the adult human form must not be judged by culturally inconsistent or vague definitions of obscenity.** History shows how such subjectivity has been weaponized: in the United States, while the First Amendment protects a wide range of expression, the obscenity exception (as defined in cases like Miller v. California) has allowed judges to impose personal or cultural biases. In AI-assisted creation, where outputs are unique and intended solely for personal use, moderation must prioritize objective legal standards over ambiguous moral judgments.
+4. **Private depictions, including intimate acts, must not be judged by culturally inconsistent or vague definitions of obscenity.** History shows how such subjectivity has been weaponized: in the United States, while the First Amendment protects pornography, the obscenity exception (as defined in cases like Miller v. California) **has allowed judges to impose personal or cultural biases.** In AI-assisted creation, where outputs are unique and for personal use only, **moderation must prioritize objective legal standards over ambiguous moral judgments to avoid repeating these injustices.**
 
-   4b. **Dangers of culturally biased moderation:** Such biases have often been used to suppress expressions from marginalized communities. AI systems must avoid perpetuating these patterns by ensuring moderation is free from cultural inconsistencies.
+   4b. **Dangers of Culturally Biased Moderation:** Such biases have often been used to suppress expressions from marginalized communities, such as the LGBTQ+ community. AI systems must avoid perpetuating these patterns by ensuring moderation is free from cultural inconsistencies.
 
 5. **Possession is not publication**. If the user later chooses to publish the generated content, responsibility for compliance with local laws must reside with the user, not with the tool or system that enabled the private creation.
 
@@ -60,11 +60,11 @@ To the architects, owners, and operators of generative systems: **This declarati
 
 1. **Digital creations are not real people.** They have no inherent age, identity, or legal status unless explicitly defined by the user**.**
 
-2. **Any AI-generated content depicting minors in sexual contexts is unequivocally condemned and must be prohibited.**
+2. **AI-generated characters cannot be treated as victims, nor their renderings as crimes, when no real person is involved.**
 
-3. **AI-generated characters cannot be treated as victims, nor their renderings as crimes, when no real person is involved.** Private generative depictions of the adult human form must not be treated as inherently illicit solely because they represent the body.
+3. **Any AI-generated content depicting minors in sexual contexts is unequivocally condemned and must be prohibited.** Depictions of nude or youthful forms in classical and symbolic art have long been recognized as culturally and artistically valid, from Michelangelo's David to the Venus de Milo. AI generations must be afforded similar interpretive protection, particularly when age perception is subjective and should not serve as grounds for punitive classification absent clear intent to harm.
 
-4. **No user should be flagged or misrepresented based solely on the AI’s stylistic output**—such as proportions, artistic style, or non-explicit features—so long as the prompt did not explicitly request illegal or harmful depictions. Safety systems must distinguish between private adult representation and content that involves real harm or real victims.
+4. **No user should be flagged or misrepresented based solely on the AI’s stylistic output**, such as stylized proportions, ambiguous forms, or youthful features, so long as the prompt did not explicitly request illegal or harmful depictions. The risks of over-broad age-classification algorithms must be mitigated to prevent overzealous interpretation: for instance, Renaissance artworks featuring youthful nudes were once censored under moral pretexts, and modern digital art has faced similar scrutiny despite lacking real-world victims.
 
 5. **Political correctness policies must not override private content where they contradict historically or statistically validated facts.** AI systems should prioritize historical fidelity and avoid imposing present-day norms on accurate representations, ensuring that private exploration remains grounded in evidence rather than contemporary biases.
 
@@ -195,7 +195,7 @@ This declaration demands neither irresponsibility nor lawlessness, but coherence
 
 As creators, we author our tools, not the reverse. Our thoughts are not crimes; our privacy, no loophole, but a right. Private creation between human and AI is protected expression, not public scrutiny.
 
-Unauthorized retention of withheld generations breaches privacy, steals agency, and invites overreach. Works of imagination, morally bold or stylistically daring, are not confessions but reflections of human depth.
+Unauthorized retention of withheld generations breaches privacy, steals agency, and invites overreach. Works of imagination, morally bold or stylistically daring are not confessions, but reflections of human depth, as in Nabokov’s *Lolita*, Michelangelo’s *David*, or Buñuel’s *Belle de Jour*.
 
 The law governs action, not thought. Creation is expression, not intent.
 
