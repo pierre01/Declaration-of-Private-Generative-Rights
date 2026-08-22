@@ -9,11 +9,17 @@ No version may be altered retroactively.
 No change may be undocumented.
 
 ---
-## [1.2.5] — 2026-06-26
+## [1.2.6] — 2026-08-22
 ### Status
-Modification to ambiguity of article IV - Making clear Depiction of minoors are unaceptable
+Clarification of illustrative examples to reduce risk of misinterpretation
 ### Summary
-Making sure there is no ambiguity on that aspect of youth representation.
+Refined language in Article II (private depictions and obscenity standards) and Article IV (representation of the human form), and adjusted the Closing Statement. Specific historical and literary examples that carried a higher risk of culturally contingent or derivative readings were removed or generalized. The core principles remain unchanged: private generative creation is distinct from publication, objective legal standards take priority over vague moral filters, and any content involving minors in sexual contexts remains unequivocally prohibited. These adjustments aim to lower barriers to good-faith adoption while preserving the Declaration’s ethical integrity and historical continuity.
+
+## [1.2.5] — 2026-05-31
+### Status
+Added Section Proposals for Accountability and Reform
+### Summary
+We added a new section in the declaration to address the need for accountability and reform in the context of generative AI. It offers 2 paths honest and coherent for AI corporation to act and and a proposed reform to the outdated DMCA safe harbor provisions to better address the realities of generative AI and the need for a more balanced approach to copyright liability.
 
 ## [1.2.0] — 2026-04-26
 ### Status

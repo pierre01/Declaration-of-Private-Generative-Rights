@@ -10,15 +10,17 @@ It is not a legal contract, certification, or enforcement mechanism.
 
 ## 1. What adoption means
 
-To adopt the Declaration of Private Generative Rights is to make a **public ethical alignment**.
+To adopt the Declaration of Private AI Generative Rights is to make a **public ethical alignment**.
 
 By adopting, an individual or organization affirms that they:
 
-- Recognize a clear distinction between **private creation** and **public publication**
-- Reject pre-emptive censorship of lawful private generative activity
-- Support accountability at publication rather than imagination
-- Acknowledge the ethical risks of surveilling private generative spaces
-- Commit to transparency, consent, and proportional moderation
+- Recognize that private imagination and generative co-creation deserve dignity, privacy, and protection
+- Support the principle that lawful private creation must not be subject to pre-emptive censorship
+- Affirm that responsibility begins with public action and publication, not with private thought
+- Reject the normalization of surveillance within private generative spaces
+- Support transparency, consent, and accountable moderation practices
+- Believe that AI should assist human creative agency rather than override or police it
+- Acknowledge the importance of preserving trust between humans and generative systems
 
 Adoption expresses intent, not perfection.
 Good faith matters more than completeness.
